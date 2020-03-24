@@ -470,6 +470,22 @@
         }
       ],
       "id": 7
+    },
+    {
+      "name": "Guilherme Rosa dos Santos",
+      "email": "guilherme.rosa.santos@outlook.com",
+      "emailConfirmation": "guilherme.rosa.santos@outlook.com",
+      "address": "Rua Iquiririm",
+      "number": "2222",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 3,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 8
     }
   ]
 }
